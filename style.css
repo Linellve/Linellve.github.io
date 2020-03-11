@@ -8,3 +8,39 @@ table, td {
     border: 1px soldid  rgb(5, 5, 5);
     margin-left: 450px;
 } /*Rahmen für Tabelle*/
+
+img {
+    width: 100%;
+  }
+  
+  @media (min-width: 25em) {
+    img {
+      width: 50%;
+      float: right;
+      margin: 0 0 1em 1em;
+    }
+  }
+  
+  @media (min-width: 50em) {
+    img {
+      width: 25%;
+    }
+  }
+  #gallery figure {
+    position: relative;
+  }
+  
+  figure img {
+    width: 100%;
+    display: block;
+  } 
+  
+  
+  #gallery > figure > figcaption {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    line-height: 3em;
+    color: white;
+    background: rgba(0,0,0,.3);
+  }
