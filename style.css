@@ -9,12 +9,12 @@ table, td {
     margin-left: 450px;
 } /*Rahmen für Tabelle*/
 
-img {
+Löwe.jpg {
     width: 100%;
   }
   
   @media (min-width: 25em) {
-    img {
+    Löwe.jpg {
       width: 50%;
       float: right;
       margin: 0 0 1em 1em;
@@ -22,7 +22,7 @@ img {
   }
   
   @media (min-width: 50em) {
-    img {
+    Löwe.jpg {
       width: 25%;
     }
   }
@@ -30,13 +30,12 @@ img {
     position: relative;
   }
   
-  figure img {
+  figure Löwe.jpg {
     width: 100%;
     display: block;
-  } 
+   
   
-  
-  #gallery > figure > figcaption {
+  #gallery > figure > figcaption 
     position: absolute;
     bottom: 0;
     width: 100%;
