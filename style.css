@@ -5,17 +5,6 @@ table{
     margin-left: 450px;
 }
 table, td {
-    border: 1px soldi  rgb(5, 5, 5);
-    border-top-width:1px;
-    border-right-width:1px;
-    border-bottom-width:1px;
-    border-left-width:1px;
-    border-top-style:solid;
-    border-right-style:solid;
-    border-bottom-style:solid;
-    border-left-style:solid;
-    border-top-color: rgb(5, 5, 5);;
-    border-right-color: rgb(5, 5, 5);
-    border-bottom-color: rgb(5, 5, 5);;
-    border-left-color: rgb(5, 5, 5);;
+    border: 1px soldid  rgb(5, 5, 5);
+    margin-left: 450px;
 } /*Rahmen für Tabelle*/
