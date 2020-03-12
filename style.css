@@ -12,3 +12,16 @@ thead, td {
     color: rgb(5, 5, 5);
 }
 
+
+
+#img1{
+
+    position: absolute;
+    
+    width: 100%;
+    
+    height: 75%;
+    
+    left: 0px;
+    
+    } /*Bildbreite über ganzen Bildschirm*/
