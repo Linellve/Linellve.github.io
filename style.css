@@ -7,10 +7,11 @@ h1 {
 table, td {
     border: 1px soldid  rgb(5, 5, 5);
     margin-left:  px700;
-} /*Rahmen und Position für Tabelle*/
+} 
 thead, td {
     border: 1px solid  rgb(5, 5, 5);
     color: rgb(5, 5, 5);
+    /*Rahmen und Position für Tabelle*/
 }
 
 h2{
@@ -18,22 +19,23 @@ h2{
     box-sizing: content-box;
     width: 94%padding: 30px;
     border: ridge rgb(5, 5, 5) 10px;
-    float: none;
+    float: none; 
+    text-align: center;
+    /*Formatierung für Titel h2*/
 }
 
 h5{
     text-align: center;
+    /*Formatierung für Titel h5*/
 }
 
-h2{
-    text-align: center;
-}
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+    /*alle Bilder werden auf der Seite zentriert und nehmen 70% des Bildschirms ein*/
 }
 
 
