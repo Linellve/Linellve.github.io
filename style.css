@@ -20,4 +20,14 @@ h2{
     float: none;
 }
 
+#Löwe{
+
+    position: absolute;
+    
+    width: 100%;
+    
+    height: "";
+    vertical-align: middle;
+    
+    } /*Bildbreite über ganzen Bildschirm*/
 
