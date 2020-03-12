@@ -12,6 +12,12 @@ thead, td {
     color: rgb(5, 5, 5);
 }
 
-
+h2{
+    color: rgb(5, 5, 5);
+    box-sizing: content-box;
+    width: 94%padding: 30px;
+    border: ridge rgb(5, 5, 5) 10px;
+    float: none;
+}
 
 
