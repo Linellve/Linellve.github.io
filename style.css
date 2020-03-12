@@ -21,11 +21,6 @@ h2{
     float: none;
 }
 
-.Löwe { 
-	width: 300px; 
-	height: 300px; 
-	margin: 4em auto; 
-	border:1px solid green;
 }
 .Löwe { 
 	object-fit: cover; 
