@@ -38,4 +38,7 @@ img {
     /*alle Bilder werden auf der Seite zentriert und nehmen 70% des Bildschirms ein*/
 }
 
+p {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
 
