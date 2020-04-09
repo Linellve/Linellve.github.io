@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 h1 {
     text-align: center;
     color: rgb(0, 0, 0);
@@ -43,11 +47,7 @@ h1 {
     text-shadow: 4px 4px 5px rgb(136, 133, 133);
 }
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
+
 * {
   box-sizing: border-box;
 }
@@ -143,8 +143,28 @@ html {
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
+
+h1 {
+  border: 5px solid red;
+}
+
+h2 {
+  border: 4px dotted blue;
+}
+
+div {
+  border: double;
+}
 </style>
 </head>
 <body>
 
+<h1>A heading with a solid red border</h1>
+
+<h2>A heading with a dotted blue border</h2>
+
+<div>A div element with a double border.</div>
+
+</body>
+</html>
 
